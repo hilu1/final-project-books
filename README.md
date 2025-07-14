@@ -1,3 +1,5 @@
+### Presentation :https://docs.google.com/presentation/d/1fUy_6-aY3iwuFfDc32mr_RWSfJjtmomKtCvKvsmJbnQ/edit?usp=sharing
+###  https://trello.com/invite/b/684d7cb0c0cad8356d502f69/ATTI2ac8381d94335f2f1b378d8b3519e9f9F30D05FC/final-project-childrens-book-market-analysis-for-inclusive-publishing
 # final-project-books
 Project Title:
 Children’s Book Trends & Market Insights — A Pathway to Inclusive Publishing
