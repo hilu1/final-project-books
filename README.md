@@ -38,7 +38,6 @@ This project analyzes a dataset of children's books using SQL, Tableau, and Exce
 - SQL (MySQL) – data cleaning, aggregation, and exploration
 - Python (Pandas) – mock data simulation and export
 - Tableau – interactive dashboard and story building
-- Excel – dataset structuring
 
 ---
 
