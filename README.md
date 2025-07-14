@@ -47,7 +47,6 @@ This project analyzes a dataset of children's books using SQL, Tableau, and Exce
 ### 🔝 Top KPIs
 - Total Books
 - Average Rating
-- % Discounted (optional)
 - % Bestsellers (optional)
 
 ### 📘 Story 1: Age Group Focus
